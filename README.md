@@ -1,18 +1,18 @@
-#一级标题
-##二级标题
-普通文本
-普通文本2
-	单行文本
+#一级标题  
+##二级标题  
+普通文本  
+普通文本2  
+	单行文本  
 ```
 Nice to meet you
 How do you do
 How are you
 ```
-`linux` `network` `socket`
-*斜体*
-**bold**
-![](https://wap.sogou.com/resource/web/images/sogou160x42.png)
-[baidu](https://www.baidu.com)
+`linux` `network` `socket`  
+*斜体*  
+**bold**  
+![](https://wap.sogou.com/resource/web/images/sogou160x42.png)  
+[baidu](https://www.baidu.com)  
 + abc
 + bbc
 + cbc
